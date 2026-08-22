@@ -9,7 +9,7 @@ declare global {
 }
 
 export const YOUTUBE_VIDEO_ID = '8vlEev1_19U';
-export const YOUTUBE_START_SECONDS = 20;
+export const YOUTUBE_START_SECONDS = 23;
 const TARGET_VOLUME = 35; // 35% background volume
 
 interface YouTubeAudioProps {

@@ -92,7 +92,7 @@ export const SectionFinalReveal: React.FC<SectionFinalRevealProps> = ({ onRestar
             With a little smile,
           </p>
           <p className="text-3xl md:text-4xl font-bold text-pink-700 font-['Caveat'] tracking-wide">
-            from Malik Ryan 💗✨
+            from Huzaifa 💗✨
           </p>
         </motion.div>
 
@@ -150,7 +150,7 @@ export const SectionFinalReveal: React.FC<SectionFinalRevealProps> = ({ onRestar
             >
               <p>🫂 **Virtual Hug Sent!**</p>
               <p className="text-xs text-purple-700 mt-1">
-                Whenever you feel down, remember you have a great friend in Malik Ryan. 🌸✨
+                Whenever you feel down, remember you have a great friend in Huzaifa. 🌸✨
               </p>
               <button
                 onClick={() => setShowHug(false)}
